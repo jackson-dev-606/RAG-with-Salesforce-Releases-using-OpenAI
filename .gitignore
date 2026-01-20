@@ -24,3 +24,8 @@ Thumbs.db
 # Folders
 /images
 /pdfs
+
+# RAG output files (large auto-generated artifacts)
+filtered_release_notes.json
+metadata_json.json
+filtered_sf_release_notes_index.index
